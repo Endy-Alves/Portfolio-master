@@ -1,0 +1,119 @@
+@media screen and (max-width: 667px) {
+    .perfil{
+        margin-top: 0em;
+        margin-left: 5px;
+        width: 22em;
+        height: 12em;
+        position: absolute;
+    }
+    .image-profile{
+        width: 6em;
+        margin-left: 20px;
+    }
+    .name{
+        font-size: 20px;
+        margin-top: -3em;
+        margin-left: 10em;
+    }
+    .sub{
+        font-size: 15px;
+        margin-top: 2em;
+        margin-left: 10em;
+    }
+    .painel{
+        margin-top: 18.5em;
+        margin-left: 5px;
+        width: 5em;
+        position: absolute;
+    }
+    .conteudo{
+        margin-top: -40px;
+        margin-left: -10px;
+        font-size: 10px;
+    }
+    h3{
+        font-size: 15px;
+        margin-left: -2em;
+    }
+    .painel2{
+        position: absolute;
+        margin-top: 40em;
+        margin-left: 6.5em;
+        width: 15em;
+        border-radius: 1px;
+    }
+    .titulo-inferior{
+        font-size: 20px;
+    }
+    .tec{
+        margin-left: 30px;
+    }
+    .me{
+        position: absolute;
+        margin-top: 53em !important;
+        margin-left: 0em !important;
+        width: 22em !important;
+        height: 13em !important;
+    }
+    .p1{
+        position: absolute;
+        margin-top: 17.5em;   
+        margin-left: -18.5em;
+        width: 15em;
+    }
+    .p2{
+        position: absolute;
+        display: absolute;
+        margin-left: -18.5em;
+        width: 15em;
+        margin-top: 29em;
+    }
+    p{
+        font-size: 15px;
+    }
+    .descriçao{
+        padding-right: 13px;
+        font-size: 10px;
+    }
+    .atribute{
+        margin-left: -8em;
+    }
+    .projects-painel{
+        position: absolute;
+        margin-left: 0.5em;
+        margin-top: 13em;
+        width: 21em;
+    }
+    .pj{
+        font-size: 20px;
+    }
+    .all{
+        margin-left: 18em;
+    }
+    .me{
+        position: absolute;
+        margin-top: 10em;
+        margin-left: 6.5em;
+        width: 30em;
+        padding-top: 10.5em;
+        height: 11em;
+    }
+    .foto2{
+        margin-top: -30em;
+    }
+    .txt{
+        padding-top: -30em;
+        padding-left: 5em;
+    }
+    .mim{       
+    font-size: small;
+    padding-left: 1em;
+    padding-right: 1em;
+    }
+    .foto2{
+        display: none;
+    }
+}
+@media (min-width: 375px) and (max-width: 665px) {
+
+}
