@@ -117,7 +117,7 @@
     .foto2{
         display: none;
     }
-    .h3:hover{
+    h3:hover{
         display: none;
     }
 }
