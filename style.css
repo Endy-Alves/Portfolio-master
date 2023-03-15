@@ -1,0 +1,284 @@
+body{
+    background-color: rgb(36, 33, 51);
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+}
+
+.perfil {
+    background-color: rgb(65, 65, 65);
+    width: 20em;
+    height: 20em;
+    border-radius: 10px;
+    margin-left: 2em;
+    border-radius: 100% 0% 100% 0% / 77% 100% 0% 23% ;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+
+.painel {
+    margin-top: 2em;
+    background-color: rgb(65, 65, 65);;
+    width: 20em;
+    height: 30em;
+    border-radius: 10px;
+    margin-left: 2em;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.painel2 {
+    background-color:rgb(65, 65, 65);
+    width: 20em;
+    height: 10em;
+    border-radius: 10px;
+    margin-left: 2em;
+    border-radius: 100% 0% 50% 50% / 0% 100% 0% 100% ;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.projects-painel {
+    margin-top: -62em;
+    margin-left: 25em;
+    background-color: rgb(65, 65, 65);;
+    height: 3.5em;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.projectsAll{
+    margin-left: 25em;
+}
+.p1 {
+    margin-top: 2em;
+    background-color: rgb(65, 65, 65);;
+    width: 26em;
+    height: 10em;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.p2 {
+    margin-top: -11em;
+    margin-left: 27em;
+    background-color: rgb(65, 65, 65);;
+    width: 26em;
+    height: 10em;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.me {
+    margin-top: 4em;
+    margin-left: 24em;
+    background-color: rgb(65, 65, 65);;
+    height: 12em;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.image-profile {
+    width: 10em;
+    margin-left: 5em;
+    border-radius: 100px;
+    margin-top: 2em;
+    -webkit-box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+    box-shadow: 0 24px 38px 3px rgb(0 0 0 / 14%), 0 9px 46px 8px rgb(0 0 0 / 12%), 0 11px 15px -7px rgb(0 0 0 / 20%);
+}
+.name {
+    margin-left: 4em;
+}
+.sub {
+    margin-left: 4em;
+}
+.conteudo{
+    padding: 3em;
+    margin-left: 2em;
+}
+h3{
+    color: white;
+    padding: 0.8em;
+}
+h3:hover{
+    font-size: 20px;
+    border-radius: 50px;
+    background: rgb(42, 42, 42);
+    box-shadow:  20px -20px 60px rgb(45, 45, 45),
+             -20px 20px 60px rgb(71, 71, 71);;
+}
+.tec{
+    margin-left: 12em;
+}
+.titulo-inferior{
+    margin-left: 6px;
+}
+button{
+    padding: 10px;
+}
+.js{
+    background-color: red;
+    margin-top: 3px;
+}
+.ts {
+    background-color: red;
+}
+.html{
+    background-color: green;
+}
+.css{
+    background-color: green;
+}
+.pj{
+    padding-top: 15px;
+    padding-left: 9px;
+}
+.all{
+    color: white;
+    margin-left: 53em;
+    margin-top: -2.5em;
+}
+.vlp{
+    margin-top: -2.3em;
+    padding-left: 60px;
+}
+.ext{
+    margin-top: -2.3em;
+    padding-top: 0;
+    padding-left: 60px;
+}
+.folder{
+    width: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.descriçao{
+    padding-left: 10px;
+    font-size: 15px;
+}
+.atribute{
+    padding-top: 1em;
+    padding-left: 20em;
+}
+.feather feather-star{
+    color: gold !important;
+}
+.pjs{
+    color: white;
+    text-decoration: none;
+}
+.link{
+    text-decoration: none;
+}
+.foto2{
+    padding-top: 1.5em;
+    padding-left: 1em;
+    width: 7em;
+    border-radius: 57% 43% 41% 59% / 56% 49% 51% 44% ;
+}
+.txt{
+    padding-left: 5.9em;
+    margin-top: -5em !important;
+}
+.mim{
+    font-size: small;
+    padding-left: 11em;
+    padding-right: 1em;
+}
+
+@media (min-width: 275px) and (max-width: 667px) {
+    .perfil{
+        margin-left: 5px;
+        width: 10em;
+        height: 12em;
+    }
+    .image-profile{
+        width: 6em;
+        margin-left: 20px;
+    }
+    .name{
+        font-size: 15px;
+        margin-top: 0;
+        margin-left: 25px;
+    }
+    .sub{
+        font-size: 11px;
+        margin-top: 0;
+        margin-left: 20px;
+    }
+    .painel{
+        margin-left: 5px;
+        width: 5em;
+        position: absolute;
+    }
+    .conteudo{
+        margin-top: -40px;
+        margin-left: -10px;
+        font-size: 10px;
+    }
+    h3{
+        font-size: 15px;
+        margin-left: -2em;
+    }
+    .painel2{
+        margin-top: 34em;
+        margin-left: 5px;
+        width: 15em;
+    }
+    .titulo-inferior{
+        font-size: 20px;
+    }
+    .tec{
+        margin-left: 30px;
+    }
+    .me{
+        margin-top: 1em !important;
+        margin-left: 20em;
+    }
+    .p1{
+        margin-top: 3.5em;   
+        margin-left: -18.5em;
+        width: 15em;
+        display: absolute;
+    }
+    .p2{
+        display: absolute;
+        margin-left: -3em;
+        width: 15em;
+    }
+    p{
+        font-size: 15px;
+    }
+    .descriçao{
+        padding-right: 13px;
+        font-size: 10px;
+    }
+    .atribute{
+        margin-left: -8em;
+    }
+    .projects-painel{
+        margin-left: 12.5em;
+        margin-top: -51.2em;
+        width: 23em;
+    }
+    .pj{
+        font-size: 20px;
+    }
+    .all{
+        margin-left: 18em;
+    }
+    .me{
+        margin-top: 4em;
+        margin-left: 6.5em;
+        width: 30em;
+        padding-top: 10.5em;
+        height: 11em;
+    }
+    .foto2{
+        margin-top: -30em;
+    }
+    .txt{
+        padding-top: -30em;
+        padding-left: 10em;
+    }
+}
+@media (min-width: 375px) and (max-width: 665px) {
+
+}
