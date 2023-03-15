@@ -2,7 +2,7 @@
     .perfil{
         margin-top: 0em;
         margin-left: 5px;
-        width: 22em;
+        width: 90%;
         height: 12em;
         position: absolute;
     }
@@ -13,12 +13,12 @@
     .name{
         font-size: 20px;
         margin-top: -3em;
-        margin-left: 10em;
+        margin-left: 45%;
     }
     .sub{
         font-size: 15px;
         margin-top: 2em;
-        margin-left: 10em;
+        margin-left: 38%;
     }
     .painel{
         margin-top: 18.5em;
@@ -40,33 +40,33 @@
         position: absolute;
         margin-top: 40em;
         margin-left: 2.5em;
-        width: 17em;
+        width: 80%;
         border-radius: 1px;
     }
     .titulo-inferior{
         font-size: 20px;
     }
     .tec{
-        margin-left: 30px;
+        margin-left: 30%;
     }
     .me{
         position: absolute;
         margin-top: 53em !important;
         margin-left: 0em !important;
-        width: 22em !important;
+        width: 90% !important;
         height: 13em !important;
     }
     .p1{
         position: absolute;
         margin-top: 17.5em;   
         margin-left: -18.5em;
-        width: 15em;
+        width: 68%;
     }
     .p2{
         position: absolute;
         display: absolute;
         margin-left: -18.5em;
-        width: 15em;
+        width: 68%;
         margin-top: 29em;
     }
     p{
@@ -84,7 +84,7 @@
         position: absolute;
         margin-left: 0.5em;
         margin-top: 13em;
-        width: 21em;
+        width: 90%;
         
     }
     .pj{
@@ -92,7 +92,7 @@
         font-size: 20px;
     }
     .all{
-        margin-left: 18em;
+        margin-left: 80%;
     }
     .me{
         position: absolute;
@@ -107,7 +107,7 @@
     }
     .txt{
         padding-top: -30em;
-        padding-left: 5em;
+        padding-left: 40%;
     }
     .mim{       
     font-size: small;
