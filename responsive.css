@@ -24,6 +24,7 @@
         margin-top: 18.5em;
         margin-left: 5px;
         width: 5em;
+        height: 20em;
         position: absolute;
     }
     .conteudo{
@@ -32,14 +33,14 @@
         font-size: 10px;
     }
     h3{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: -2em;
     }
     .painel2{
         position: absolute;
         margin-top: 40em;
-        margin-left: 6.5em;
-        width: 15em;
+        margin-left: 2.5em;
+        width: 17em;
         border-radius: 1px;
     }
     .titulo-inferior{
@@ -69,6 +70,7 @@
         margin-top: 29em;
     }
     p{
+        margin-top: 5px;
         font-size: 15px;
     }
     .descriçao{
@@ -83,8 +85,10 @@
         margin-left: 0.5em;
         margin-top: 13em;
         width: 21em;
+        
     }
     .pj{
+        margin: auto;
         font-size: 20px;
     }
     .all{
